@@ -1,0 +1,8 @@
+{
+  "name": "agent-discovery-and-trusted-resource-networks",
+  "version": "0.1.0",
+  "description": "Agent Discovery and Trusted Resource Networks",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}

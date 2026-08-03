@@ -21,3 +21,7 @@ Define a minimal resource-manifest/schema plus a hand-curated seed corpus of rou
 - Original top-level brief path at incubation time: `/Users/aimee/Obsidian/AgentVault/projects/agent-discovery-and-trusted-resource-networks.md`
 - Workspace brief copy: `/Users/aimee/.openclaw/git/AlexanderPico/agent-discovery-and-trusted-resource-networks/docs/agentvault-project-brief.md`
 - Archived source brief path after retirement: `/Users/aimee/Obsidian/AgentVault/projects/archive/incubated/2026-05-13/agent-discovery-and-trusted-resource-networks.md`
+
+## Development
+
+Run tests with `npm test`.
